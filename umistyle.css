@@ -1,0 +1,20 @@
+BODY {font-family:"Arial"; font-size:10;margin:0px;padding:0px;text-align:center;min-width:1282px;}
+P {font: 16.0px Palatino Linotype; line-height:23px; font-weight: bold; color:#FFDE59;}
+P.p1 {margin: 0.0px 0.0px 0.0px 40.0px; text-indent: -40.0px;}
+P.p2 {font: 17.0px Palatino Linotype; line-height:24px; font-weight: normal;}
+P.p3 {font: 14.0px Palatino Linotype; line-height:20px; font-weight: normal;}
+P.p4 {font-weight: normal;}
+span.s1 {font: 18.0px Palatino Linotype; line-height:26px; font-weight: bold; color:#FFDE59;}
+span.s2 {font: 16.0px Palatino Linotype; line-height:23px; font-weight: bold; color:#FFDE59;}
+span.s3 {font: 20.0px Palatino Linotype; line-height:27px; color:#FFDE59; font-weight: bold;}
+span.s4 {font: 16.0px Palatino Linotype; line-height:23px; color:#FFDE59;}
+span.s5 {font: 18.0px Palatino Linotype; line-height:26px; color:#FFDE59;}
+span.wh {font-size:18px; line-height:22px; color:#FFDE59;}
+
+FORM {margin:0;padding:0;}
+ul {font: 16.0px Palatino Linotype; line-height:23px; font-weight: bold; color:#FFDE59;padding:0;margin:0px 0px 0px 40px;}
+h1 {font: 20.0px Palatino Linotype; line-height:27px; color:#FFDE59;}
+h1.upper {font-weight: bold;}
+h1.ack {font: 18.0px Palatino Linotype; line-height:26px;}
+
+#centerwrapper {text-align:left;width:1282px;margin-left:auto;margin-right:auto;}

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+   <channel>
+      <title>The Witch Hunt</title>
+      <link>http://witch-hunt.com/blog/</link>
+      <description>ウィッチハント</description>
+      <language>en</language>
+      <copyright>Copyright 2009</copyright>
+      <lastBuildDate>Thu, 17 Sep 2009 08:45:15 -0800</lastBuildDate>
+      <generator>http://www.sixapart.com/movabletype/?v=3.2ysb5-20051201</generator>
+      <docs>http://blogs.law.harvard.edu/tech/rss</docs> 
+
+            <item>
+         <title>EP1-4 version 4.2 Released</title>
+         <description><![CDATA[<p>Update patch finished for the 4 question arcs.</p><p>An installer has been added for the Mac OSX version with many thanks to Roto, the newest member of our team. <br /></p><p>New features for all versions include a ctrl skip that is much faster (the 's' skip is the same speed that it used to be), and song titles and artist names have been translated/romanized as the case may be.&nbsp; The titles used at the moment are temporary; we hope to ask the artists themselves if they have any preferences and include those in the next update.&nbsp; Also, many of the larger picture files have been converted into png format to save space.<br /></p><p>Though many edits have been made to all parts of Episode 1, chapters 14 and onwards have been sifted through line by line.&nbsp; Total number of lines that have been changed for accuracy or flow is more than 1300...yeah, seriously.<br /></p><p>This version of the patch does <strong>not</strong> include a full set of edits based on new info from EP5.&nbsp; Hopefully, a new version will be released along with the EP5 patch when that is finished.</p><p>&nbsp;You can find the new patches <a href="http://www.witch-hunt.com/stage.html" title="Getting Started">here</a>.<br /></p>]]></description>
+         <link>http://witch-hunt.com/blog/2009/09/ep14_version_42_released.html</link>
+         <guid>http://witch-hunt.com/blog/2009/09/ep14_version_42_released.html</guid>
+         <category></category>
+         <pubDate>Thu, 17 Sep 2009 08:45:15 -0800</pubDate>
+      </item>
+            <item>
+         <title>Once more...</title>
+         <description><![CDATA[<p>Welcome to the Witch Hunt's new blog and RSS feed.&nbsp; Major changes and notices will be posted here, but translation and editing progress will be kept to our website's News page.<br /></p><p>Enjoy. <br /></p>]]></description>
+         <link>http://witch-hunt.com/blog/2009/09/once_more.html</link>
+         <guid>http://witch-hunt.com/blog/2009/09/once_more.html</guid>
+         <category></category>
+         <pubDate>Thu, 03 Sep 2009 17:14:34 -0800</pubDate>
+      </item>
+            <item>
+         <title>EP4 Done</title>
+         <description><![CDATA[<p>Episode 4 Patch finished.</p><p>Read <a href="http://forums.animesuki.com/showpost.php?p=2439377&amp;postcount=1730" target="_blank" title="Instructions">this</a> post.</p><p>The Trash Bin can now be seen. <br /></p>]]></description>
+         <link>http://witch-hunt.com/blog/2009/06/ep4_done.html</link>
+         <guid>http://witch-hunt.com/blog/2009/06/ep4_done.html</guid>
+         <category></category>
+         <pubDate>Sun, 07 Jun 2009 17:27:14 -0800</pubDate>
+      </item>
+            <item>
+         <title>EP4 Part 1</title>
+         <description><![CDATA[<p>Episode 4 Patch 1 finished (chapters 0-9)</p><p>In-game Grimoire Tips system added.</p><p>Several bugs fixed for Windows and Mac. <br /></p>]]></description>
+         <link>http://witch-hunt.com/blog/2009/03/ep4_part_1.html</link>
+         <guid>http://witch-hunt.com/blog/2009/03/ep4_part_1.html</guid>
+         <category></category>
+         <pubDate>Sun, 22 Mar 2009 17:25:45 -0800</pubDate>
+      </item>
+            <item>
+         <title>EP3 Done</title>
+         <description><![CDATA[<p>Episode 3 Patch completed.</p><p>Episode 4 compatible version translated up to Episode 3.&nbsp; Added the Grimoires, Ryuukishi07's letter, and started the Epitaph section. <br /></p>]]></description>
+         <link>http://witch-hunt.com/blog/2009/01/ep3_done.html</link>
+         <guid>http://witch-hunt.com/blog/2009/01/ep3_done.html</guid>
+         <category></category>
+         <pubDate>Sun, 11 Jan 2009 17:24:10 -0800</pubDate>
+      </item>
+            <item>
+         <title>Thanks Ryuukishi!</title>
+         <description><![CDATA[<p>We now have Ryuukishi's encouragement for our translation.</p><p>Half of the last chapter in EP3 has been translated, and a version of the patch that is compatible with EP4 is almost ready.<br /></p>]]></description>
+         <link>http://witch-hunt.com/blog/2009/01/thanks_ryuukishi.html</link>
+         <guid>http://witch-hunt.com/blog/2009/01/thanks_ryuukishi.html</guid>
+         <category></category>
+         <pubDate>Tue, 06 Jan 2009 17:22:41 -0800</pubDate>
+      </item>
+            <item>
+         <title>Site Created</title>
+         <description><![CDATA[Site created.&nbsp; Rokkenjima Stage section added<br />]]></description>
+         <link>http://witch-hunt.com/blog/2008/12/site_created.html</link>
+         <guid>http://witch-hunt.com/blog/2008/12/site_created.html</guid>
+         <category></category>
+         <pubDate>Sat, 27 Dec 2008 17:18:45 -0800</pubDate>
+      </item>
+      
+   </channel>
+</rss>
